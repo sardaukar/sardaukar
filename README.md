@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an eclectic developer with a preference for backend work, mostly in [Elixir](https://elixir-lang.org/) these days. [Ruby](https://www.ruby-lang.org/en/) will always be in my heart though, and I hope [Crystal](https://crystal-lang.org/) becomes a thing soon.
+I'm an eclectic developer with a preference for backend work, mostly in [Elixir](https://elixir-lang.org/) these days. [Ruby](https://www.ruby-lang.org/en/) will always be in my heart though.
 
 I believe my #1 job is to fix problems, not write code. Just like Tron, [fighting for the users](https://www.youtube.com/watch?v=6a7NjiFGTik) - everyday.
 
