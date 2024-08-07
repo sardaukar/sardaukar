@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an eclectic developer with a preference for backend work, mostly in [Elixir](https://elixir-lang.org/) these days. [Ruby](https://www.ruby-lang.org/en/) will always be in my heart though.
+I'm an eclectic developer with a preference for backend work, in [Elixir](https://elixir-lang.org/) these days. [Ruby](https://www.ruby-lang.org/en/) will always be in my heart though.
 
 Just like Tron, [fighting for the users](https://www.youtube.com/watch?v=6a7NjiFGTik) - everyday.
 
